@@ -1,4 +1,4 @@
 node_modules
-./js/db.js
+./public/js/db.js
 .gitignore	
 .DS_Store

@@ -1,0 +1,25 @@
+{
+  "name": "iviq",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bernerd252/interviewIQ.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bernerd252/interviewIQ/issues"
+  },
+  "homepage": "https://github.com/bernerd252/interviewIQ#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "mongoose": "^4.8.6",
+    "path": "^0.12.7"
+  }
+}
